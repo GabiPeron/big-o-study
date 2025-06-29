@@ -69,7 +69,7 @@ node src/examples/findNemo.js
 ## 👨‍💻 Author
 
 **Gabriel Peron**  
-[Website](https://gabrielperon.dev) • [LinkedIn](https://linkedin.com/in/gabrielperon) • [GitHub](https://github.com/GabiPeron)
+[Website](https://gabrielperon.dev)
 
 ## 📄 License
 
